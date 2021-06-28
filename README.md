@@ -2,7 +2,7 @@
 
 Hi, In this repository I have made various model to predict that a tweet done by people is Racist or not.
 
-State of Natural Language Processing is used in the models.
+State of Natural Language Processing is used in the models for the Text data.
 
 Three models have been made :- 
 
